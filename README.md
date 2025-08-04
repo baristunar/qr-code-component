@@ -12,13 +12,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop](./src/images/qr-code-desktop.png)
-![Mobile](./src/images/qr-code-mobile.png)
+![Desktop](./images/qr-code-desktop.png)
+![Mobile](./images/qr-code-mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://www.baristunar.com](https://your-live-site-url.com)
 
 
 ### Built with
@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Author
 
 - Website - [Barış Tunar](https://www.baristunar.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/baristunar)
-- Twitter - [@yourusername](https://www.twitter.com/baristunar)
+- Frontend Mentor - [@baristunar](https://www.frontendmentor.io/profile/baristunar)
+- Twitter - [@baristunar](https://www.twitter.com/baristunar)
